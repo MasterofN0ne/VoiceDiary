@@ -1,4 +1,4 @@
-# voice_diary
+# Voice Diary
 
 A new Flutter project.
 
